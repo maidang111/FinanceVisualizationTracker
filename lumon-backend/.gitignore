@@ -1,0 +1,30 @@
+# Environment variables — never push these
+.env
+.env.local
+.env.production
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Node / React
+node_modules/
+dist/
+build/
+.next/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Supabase local
+supabase/.branches
+supabase/.temp

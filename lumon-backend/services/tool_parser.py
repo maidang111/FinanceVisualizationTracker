@@ -1,0 +1,1 @@
+# Strips and parses tool calls
